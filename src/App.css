@@ -1,6 +1,59 @@
+@media screen and (max-width: 768px) {
+  .Navbar{
+    font-size: 15px;
+  }
+  .Navbar .nbp1{
+    font-size: 15px;
+  }
+  .main{
+    margin-top: 20%;
+  }
+  .Home{
+    grid-template-columns: 100vw;
+    margin-top: 5%;
+    height: fit-content;
+  }
+  .logo{
+    width: 80%;
+    height: auto;
+    margin-left: 10%;
+    margin-top: -5%;
+  }
+  .About .para{
+    grid-template-columns: 100vw;
+    margin-top: 5%;
+  }
+  .Skills .sp1{
+    font-size: large;
+  }
+  .Skills .skill{
+    grid-template-columns: 100vw;
+    margin-top: 5%;
+  }
+  .Service .sp2{
+    font-size: large;
+  }
+  .Service .service{
+    grid-template-columns: 100vw;
+    margin-top: 5%;
+  }
+  .Contact .contact{
+    grid-template-columns: 100vw;
+    margin-top: 5%;
+  }
+  .Footer .social{
+    grid-template-columns: 100vw;
+    margin-top: 5%;
+  }
+}
+
+
+
+
+
 body{
   width: 100vw;
-   margin: 0;
+  margin: 0;
   display: flex;
   place-items: center;
 }
@@ -9,13 +62,13 @@ body{
   overflow: hidden;
   position: fixed;
   top: 0px;
-  width: 100%;
+  width: 100vw;
   z-index: 1;
   font-family: 'Courier New', Courier, monospace;
-  font-size: 20px;
+  font-size: 16px;
   color: white;
   text-align: center;
-  padding: 14px 16px;
+/*   padding: 14px 16px; */
   text-decoration: none;
   text-transform: uppercase;
   word-spacing: normal;
@@ -25,10 +78,10 @@ body{
 .Navbar .nbp1{
   margin-right: 1%;
   float: right;
-  display: block;
+/*   display: block; */
   color: white;
   text-align: center;
-  padding: 14px 16px;
+/*   padding: 14px 16px; */
   text-decoration: none;
   word-spacing: normal;
   /* margin-top: -0.1%; */
@@ -371,4 +424,68 @@ textarea:hover{
   color: black;
   background-color: whitesmoke;
   border-radius: 10px;
+}
+
+
+
+
+
+
+
+@media screen and (max-width: 1400px) {
+  .Navbar{
+    font-size: 15px;
+  }
+  .Navbar .nbp1{
+    font-size: 15px;
+  }
+  .main{
+    margin-top: 20%;
+  }
+  .Home{
+    grid-template-columns: 100vw;
+    margin-top: 5%;
+    height: fit-content;
+  }
+  .logo{
+    width: 80%;
+    height: auto;
+    margin-left: 10%;
+    margin-top: -5%;
+  }
+  .About .para{
+    grid-template-columns: 100vw;
+    margin-top: 5%;
+  }
+  .Skills .sp1{
+    font-size: large;
+  }
+  .Skills .skill{
+    grid-template-columns: 100vw;
+    margin-top: 5%;
+  }
+  .Service .sp2{
+    font-size: large;
+  }
+  .Service .service{
+    grid-template-columns: 100vw;
+    margin-top: 5%;
+  }
+  .Contact .contact{
+    grid-template-columns: 100vw;
+    margin-top: 5%;
+  }
+  .Footer .social{
+    grid-template-columns: 100vw;
+    margin-top: 5%;
+  }
+  .Footer .social a{
+    font-size: large;
+  }
+  .Footer .social h5{
+    font-size: large;
+  }
+  .Footer .fp1{
+    font-size: large;
+  }
 }
