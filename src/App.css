@@ -1,4 +1,4 @@
-@media screen and (max-width: 678px) {
+@media screen and (max-width: 768px) {
   body{
   width: 100vw;
   margin: 0;
@@ -98,9 +98,15 @@
 }
   .About{
   /* width: 100vw; */
-  background-color: black;
-  margin-top: 10%;
-  color: white;
+  height: auto;
+  margin-top: 2%;
+  display: grid;
+  grid-template-columns: 40vw 40vw;
+  gap : 2%;
+  background-color: blue;
+  color:aliceblue;
+  align-items: center;
+  box-shadow: 10px 10px 20px white;
 }
 .About h1{
   font-size: xx-large;
