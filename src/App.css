@@ -6,6 +6,7 @@
   place-items: center;
 }
 .Navbar{
+  height:50px;
   background-color: #333;
   overflow: hidden;
   position: fixed;
