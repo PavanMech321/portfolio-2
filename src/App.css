@@ -98,12 +98,12 @@
 }
   .About{
   /* width: 100vw; */
-  height: auto;
+/*   height: auto;
   margin-top: 2%;
   display: grid;
   grid-template-columns: 40vw 40vw;
-  gap : 2%;
-  background-color: blue;
+  gap : 2%; */
+  background-color: black;
   color:aliceblue;
   align-items: center;
   box-shadow: 10px 10px 20px white;
@@ -126,6 +126,7 @@
   font-family: 'Courier New', Courier, monospace;
   font-size: large;
   text-align: center;
+  background-color: black;
   justify-content: center;
 }
 #card{
