@@ -31,7 +31,7 @@
   text-align: center;
 /*   padding: 14px 16px; */
   text-decoration: none;
-  word-spacing: normal;
+/*   word-spacing: normal; */
   /* margin-top: -0.1%; */
   box-shadow: 10px 10px 20px white;
 }
@@ -58,7 +58,7 @@
     font-size: 15px;
   }
   .Navbar .nbp1{
-    font-size: 15px;
+    font-size: medium;
   }
   .main{
     margin-top: 20%;
