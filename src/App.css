@@ -18,7 +18,7 @@
   color: white;
   display: grid;
   grid-template-rows:1fr;
-  grid-template-columns: 20% 15% 15% 15% 15% 15%;
+  grid-template-columns: 20% 14% 14% 14% 14% 14%;
   column-gap: 1%;
 /*   text-align: center; */
   text-decoration: none;
