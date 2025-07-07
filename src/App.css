@@ -6,7 +6,7 @@
   place-items: center;
 }
 .Navbar{
-/*   height: 50px; */
+  height: 30px;
   background-color: #333;
   overflow: hidden;
   position: fixed;
@@ -20,7 +20,7 @@
   grid-template-rows:1fr;
   grid-template-columns: 15% 15% 15% 15% 15% 15%;
   column-gap: 2%;
-  text-align: center;
+/*   text-align: center; */
   text-decoration: none;
   text-transform: uppercase;
 /*   word-spacing: normal; */
