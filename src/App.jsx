@@ -178,7 +178,7 @@ function App() {
           </div>
         </p>
         <button class="btn">
-          <a href="#Home" style="transition-duration:1s;">Back to Top</a>
+          <a href="#Home" >Back to Top</a>
         </button>
         <p class="Footer">
           <h6>This is a simple portfolio website created using React. It is
