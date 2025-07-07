@@ -123,6 +123,7 @@ body{
 .About .para{
   display: grid;
   grid-template-columns: 30vw 30vw;
+  height: auto;
   gap : 10%;
   margin-top: 5%;
   /* background-color: blue; */
