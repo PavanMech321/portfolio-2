@@ -1,11 +1,16 @@
-@media screen and (max-width: 768px) {
-  body{
+body{
   width: 100vw;
   margin: 0;
   display: flex;
   place-items: center;
-    
 }
+@media screen and (max-width: 768px) {
+/*   body{
+  width: 100vw;
+  margin: 0;
+  display: flex;
+  place-items: center;
+} */
 .Navbar{
   height: 50px;
   font-size: medium;
@@ -96,7 +101,7 @@
   font-size: larger;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-  .About{
+.About{
   /* width: 100vw; */
 /*   height: auto;
   margin-top: 2%;
@@ -104,7 +109,7 @@
   grid-template-columns: 40vw 40vw;
   gap : 2%; */
   background-color: black;
-    margin-top: 10%;
+  margin-top: 10%;
   color:aliceblue;
   align-items: center;
   box-shadow: 10px 10px 20px white;
