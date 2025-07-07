@@ -104,6 +104,7 @@
   grid-template-columns: 40vw 40vw;
   gap : 2%; */
   background-color: black;
+    margin-top: 10%;
   color:aliceblue;
   align-items: center;
   box-shadow: 10px 10px 20px white;
