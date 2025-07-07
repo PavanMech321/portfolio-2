@@ -191,10 +191,10 @@ function App() {
           </p>
           <p class="social">
             <h5>Connect with me on social media:</h5>
-            <a href="#" target="_blank">LinkedIn</a>
-            <a href="" target="_blank">GitHub</a>
-            <a href="" target="_blank">Twitter</a>
-            <a href="" target="_blank">Instagram</a>
+            <a href="https://www.linkedin.com/in/durga-pavan-budigi-433932258" target="_self">LinkedIn</a>
+            <a href="https://github.com/PavanMech321" target="_self">GitHub</a>
+{/*             <a href="" target="_self">Twitter</a> */}
+{/*             <a href="" target="_self">Instagram</a> */}
           </p>
         </p>
       </div>
