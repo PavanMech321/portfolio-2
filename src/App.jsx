@@ -44,9 +44,7 @@ function App() {
             skills.
             </p>
             <p class="pp2" id="card">
-            I am currently working on a portfolio website to showcase my
-            projects and skills. I am also learning about web accessibility and
-            performance optimization. I also love to travel and explore new places.
+            I recently graduated in B.Tech(Bachelor of Technology) degree with stream of Mechanical Engineering. I passed out with 6.87 C.G.P.A in the year of 2024 and looking for jobs. I'm interested on Web Developer, Java Developer, MERN Stack Developer and Node.js Developer. 
             </p>
             {/* <p class="pp3" id="card">
             In my free time, I enjoy reading books, watching movies, and
