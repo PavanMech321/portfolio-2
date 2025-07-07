@@ -7,7 +7,7 @@
 }
 .Navbar{
   height: 50px;
-  font-size: smaller;
+  font-size: medium;
   background-color: #333;
   overflow: hidden;
   position: fixed;
@@ -31,7 +31,7 @@
 .Navbar .nbp1{
   margin-right: 1%;
   float: right;
-  font-size: smaller;
+  font-size: medium;
 /*   display: block; */
   color: white;
 /*   text-align: center; */
@@ -45,7 +45,7 @@
   float: left;
 /*   display: block; */
   color: white;
-  font-size: smaller;
+  font-size: medium;
   /* width: fit-content;
   height: fit-content; */
   /* text-align: center; */
