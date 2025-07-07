@@ -35,8 +35,10 @@ function App() {
           </div>
         </p>
         </p>
+        </br>
+        </br>
         <p class="About" id="About">
-          <h1 id="About">About Me</h1>
+          <h1>About Me</h1>
           <div class="para">
             <p class="pp1" id="card">I am a web developer with a passion for creating beautiful and
             functional websites. I have experience in HTML, CSS, JavaScript,
@@ -44,15 +46,16 @@ function App() {
             skills.
             </p>
             <p class="pp2" id="card">
-            I recently graduated in B.Tech(Bachelor of Technology) degree with stream of Mechanical Engineering. I passed out with 6.87 C.G.P.A in the year of 2024 and looking for jobs. I'm interested on Web Developer, Java Developer, MERN Stack Developer and Node.js Developer. 
-            </p>
+            I recently graduated in B.Tech(Bachelor of Technology) degree with stream of Mechanical Engineering. 
+    I passed out with 6.87 C.G.P.A in the year of 2024 and looking for jobs. 
+    I'm interested on Web Developer, Java Developer, MERN Stack Developer and Node.js Developer.</p>
             {/* <p class="pp3" id="card">
             In my free time, I enjoy reading books, watching movies, and
             playing video games. I also love to travel and explore new places.
             I am always looking for new challenges and opportunities to grow as
             a developer.
             </p> */}
-          </div>
+            </div>
         </p>
         <p class="Skills" id="Skills">
           <h1>My Skills</h1>
@@ -109,9 +112,6 @@ function App() {
           <div class="service">
             <div class="web">
               <h1>Website Design and Development</h1>
-            </div>
-            <div class="responsive">
-              <h1>Responsive Web Design</h1>
             </div>
             <div class="application">
               <h1>Web Application Development</h1>
