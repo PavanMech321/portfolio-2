@@ -769,7 +769,7 @@ textarea:hover{
 
 
 
-@media screen and (max-width: 1330px) {
+@media screen and (max-width: 1080px) {
   .Navbar{
     font-size: 15px;
   }
