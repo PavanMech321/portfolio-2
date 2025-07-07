@@ -109,6 +109,7 @@ body{
   grid-template-columns: 40vw 40vw;
   gap : 2%; */
   background-color: black;
+  height: auto;
   margin-top: 10%;
   color:aliceblue;
   align-items: center;
