@@ -392,7 +392,7 @@ textarea:hover{
 
 
 
-body{
+/* body{
   width: 100vw;
   margin: 0;
   display: flex;
@@ -409,32 +409,32 @@ body{
   font-size: 16px;
   color: white;
   text-align: center;
-/*   padding: 14px 16px; */
+  padding: 14px 16px; 
   text-decoration: none;
   text-transform: uppercase;
   word-spacing: normal;
   letter-spacing: 1px;
-    /* transition: background-color 0.3s; */
+  transition: background-color 0.3s; 
 }
 .Navbar .nbp1{
   margin-right: 1%;
   float: right;
-/*   display: block; */
+display: block; 
   color: white;
   text-align: center;
-/*   padding: 14px 16px; */
+padding: 14px 16px; 
   text-decoration: none;
   word-spacing: normal;
-  /* margin-top: -0.1%; */
+  margin-top: -0.1%; 
   box-shadow: 10px 10px 20px white;
 }
 .Navbar a {
   float: left;
   display: block;
   color: white;
-  /* width: fit-content;
-  height: fit-content; */
-  /* text-align: center; */
+  width: fit-content;
+  height: fit-content; 
+   text-align: center; 
   padding: 14px 16px;
   text-decoration: none;
   word-spacing: normal;
@@ -470,7 +470,7 @@ body{
   height: 50%;
   border-radius: 50%;
   box-shadow: 10px 10px 20px black;
-  /* mix-blend-mode:lighten; */
+   mix-blend-mode:lighten; 
   filter: blur(2.5px) grayscale(50%);
   transition-duration: 1s;
 }
@@ -482,7 +482,7 @@ body{
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .About{
-  /* width: 100vw; */
+   width: 100vw;
   margin-top: 10%;
   color: white;
 }
@@ -496,7 +496,7 @@ body{
   grid-template-columns: 30vw 30vw;
   gap : 10%;
   margin-top: 5%;
-  /* background-color: blue; */
+  background-color: blue; 
   color:aliceblue;
   align-items: center;
   box-shadow: 10px 10px 20px white;
@@ -765,11 +765,7 @@ textarea:hover{
   color: black;
   background-color: whitesmoke;
   border-radius: 10px;
-}
-
-
-
-
+} */
 
 
 
