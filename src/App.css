@@ -19,7 +19,7 @@
   display: grid;
   grid-template-rows:1fr;
   grid-template-columns: 15% 15% 15% 15% 15% 15%;
-  column-gap: 2%;
+  column-gap: 1%;
 /*   text-align: center; */
   text-decoration: none;
   text-transform: uppercase;
@@ -59,10 +59,10 @@
     padding: 20px;
 }
   .Navbar{
-    font-size: 15px;
+    font-size: smaller;
   }
   .Navbar .nbp1{
-    font-size: medium;
+    font-size: smaller;
   }
   .main{
     margin-top: 20%;
