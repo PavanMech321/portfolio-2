@@ -44,15 +44,13 @@ function App() {
             React, and Node.js. I love to learn new technologies and improve my
             skills.
             </p>
-            <p class="pp2" id="card">
-            I recently graduated in B.Tech(Bachelor of Technology) degree with stream of Mechanical Engineering. I passed out with 6.87 C.G.P.A in the year of 2024 and looking for jobs. I'm interested on Web Developer, Java Developer, MERN Stack Developer and Node.js Developer.
-            </p>
-            {/* <p class="pp3" id="card">
-            In my free time, I enjoy reading books, watching movies, and
-            playing video games. I also love to travel and explore new places.
-            I am always looking for new challenges and opportunities to grow as
-            a developer.
-            </p> */}
+            <p class="pp2" id="card"> I recently graduated in B.Tech(Bachelor of Technology) degree with stream of Mechanical Engineering. I passed out with 6.87 C.G.P.A in the year of 2024 and looking for jobs. I'm interested on Web Developer, Java Developer, MERN Stack Developer and Node.js Developer. </p>
+            // {/* <p class="pp3" id="card">
+            // In my free time, I enjoy reading books, watching movies, and
+            // playing video games. I also love to travel and explore new places.
+            // I am always looking for new challenges and opportunities to grow as
+            // a developer.
+            // </p> */}
             </div>
         </p>
         <p class="Skills" id="Skills">
