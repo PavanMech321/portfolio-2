@@ -772,7 +772,7 @@ textarea:hover{
 
 
 
-@media screen and (max-width: 1080px) {
+@media screen and (max-width: 1400px) {
   .Navbar{
     font-size: 15px;
   }
@@ -783,7 +783,7 @@ textarea:hover{
     margin-top: 20%;
   }
   .Home{
-    grid-template-columns: 100vw;
+    grid-template-columns: 40vw 50vw;
     margin-top: 5%;
     height: fit-content;
   }
@@ -794,14 +794,15 @@ textarea:hover{
     margin-top: -5%;
   }
   .About .para{
-    grid-template-columns: 100vw;
+    grid-template-columns: 45vw 45vw;
     margin-top: 5%;
   }
   .Skills .sp1{
     font-size: large;
   }
   .Skills .skill{
-    grid-template-columns: 100vw;
+    grid-template-columns: 45vw 45vw;
+    grid-template-rows : 1fr 1fr;
     margin-top: 5%;
   }
   .Service .sp2{
