@@ -26,17 +26,16 @@ function App() {
           <div class="home">
             <h3>Hello, I'm </h3>
             <h1 class="hmp2">DURGA PAVAN B</h1>
-            <h3 class="hmp3">And I'm a <span>Web Developer</span></h3>
+            <h3 class="hmp3">And I'm a Web Developer</h3>
             <p>
-              I am a <span class="highlight">Web Developer</span> and I love to
+              I am a Web Developer and I love to
               create beautiful and functional websites.
             </p>
           </div>
         </p>
         </p>
-
-        <h1 id="About">About Me</h1>
         <p class="About" id="About">
+          <h1 id="About">About Me</h1>
           <div class="para">
             <p class="pp1" id="card">I am a web developer with a passion for creating beautiful and
             functional websites. I have experience in HTML, CSS, JavaScript,
