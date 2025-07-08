@@ -829,7 +829,6 @@ body{
     margin-top: 20%;
 }
 .Home{
-  height: auto;
   margin-top: 6%;
   display: grid;
   grid-template-columns: 40vw 40vw;
@@ -915,9 +914,8 @@ body{
 .skill{
   display: grid;
   grid-template-columns: 45vw 45vw;
-  grid-template-rows: 45vw 45vw;
-  column-gap: 5%;
-  margin-top: 5%;
+  column-gap: 2.5%;
+  margin-top: 2.5%;
   background-color: black;
   color:aliceblue;
   box-shadow: 10px 10px 20px white;
@@ -934,7 +932,6 @@ body{
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .backend{
-  height: fit-content;
   border-radius: 10px;
   background-color: darkcyan;
 }
