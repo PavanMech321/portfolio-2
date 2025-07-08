@@ -1018,14 +1018,82 @@ body{
   box-shadow: 10px 10px 20px white;
   height: fit-content;
 }
-  .Contact .contact{
-    grid-template-columns: 100vw;
-    margin-top: 5%;
-  }
-  .Footer .social{
+.Contact{
+  height: 50px;
+  border-radius: 10px;
+  color: aliceblue;
+  background-color: dimgray;
+  box-shadow: 10px 10px 20px white;
+}
+  .Contact h1{
+  color: blue;
+  font-size: xx-large;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+  .contact{
+  display: grid;
+  grid-template-columns: 30vw 65vw;
+  gap: 2%;
+  margin-top: 5%;
+  background-color: black;
+  color:aliceblue;
+  box-shadow: 10px 10px 20px white;
+  padding: 20px;
+}
+input{
+  width: 50vw;
+  height: 50px;
+  border-radius: 10px;
+  color: aliceblue;
+  background-color: dimgray;
+  box-shadow: 10px 10px 20px white;
+}
+input:hover{
+  background-color: #ddd;
+  color: black;
+}
+  textarea{
+  width: 50vw;
+  height: 100px;
+  border-radius: 5px;
+  color: aliceblue;
+  background-color: dimgray;
+  box-shadow: 10px 10px 20px white;
+}
+textarea:hover{
+  background-color: #ddd;
+  color: black;
+}
+  .btn{
+  margin-top: 5%;
+  width:fit-content;
+  height: 50px;
+  border-radius: 10px;
+  text-align: center;
+  color: aliceblue;
+  background-color: blue;
+  box-shadow: 10px 10px 20px blue;
+  border: none;
+  align-content: center;
+  align-self: center;
+}
+.btn a{
+  text-decoration: none;
+  color: aliceblue;
+}
+.btn:hover{
+  background-color: #ddd;
+  box-shadow: 10px 10px 20px white;
+  color: black;
+}
+  .btn:hover a:hover{
+  color: black;
+}
+.Footer .social{
     grid-template-columns: auto auto auto;
     margin-top: 5%;
-  }
+}
   .Footer .social a{
     font-size: large;
   }
