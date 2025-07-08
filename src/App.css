@@ -88,9 +88,9 @@
   }
   .image .logo{
   margin-top: 7%;
-  width: 70%;
+  width: 90%;
   margin-left: 20%;
-  height: 70%;
+  height: 90%;
   border-radius: 50%;
   box-shadow: 10px 10px 20px black;
   /* mix-blend-mode:lighten; */
@@ -100,7 +100,10 @@
 .logo:hover{
   filter: blur(0px) grayscale(0%);
 }
-.Home h1{
+  .home{
+    width:100%;
+  }
+.home h1{
   font-size: larger;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
