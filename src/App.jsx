@@ -34,8 +34,9 @@ function App() {
           </div>
         </p>
         </p>
+
+        <h1 id="About">About Me</h1>
         <p class="About" id="About">
-          <h1>About Me</h1>
           <div class="para">
             <p class="pp1" id="card">I am a web developer with a passion for creating beautiful and
             functional websites. I have experience in HTML, CSS, JavaScript,
