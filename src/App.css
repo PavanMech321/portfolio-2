@@ -1,16 +1,16 @@
-body{
-  width: 100vw;
-  margin: 0;
-/*   display: flex; */
-  place-items: center;
-}
-@media screen and (max-width: 768px) {
-/*   body{
+/* body{
   width: 100vw;
   margin: 0;
   display: flex;
   place-items: center;
 } */
+@media screen and (max-width: 768px) {
+  body{
+  width: 100vw;
+  margin: 0;
+  display: flex;
+  place-items: center;
+}
 .Navbar{
   height: 50px;
   font-size: medium;
@@ -773,6 +773,13 @@ textarea:hover{
 
 
 @media screen and (max-width: 1400px) {
+body{
+  width: 100vw;
+  margin: 0;
+  display: flex;
+  place-items: center;
+}
+  
 .Navbar{
   height: 50px;
   font-size: medium;
