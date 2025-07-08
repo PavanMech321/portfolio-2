@@ -955,15 +955,69 @@ body{
   text-align: center;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-  .Service .sp2{
-    font-size: large;
+.Service{
+  margin-top: 10%;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: large;
+  text-align: center;
+  justify-content: center;
+  padding: 20px;
+}
+  .Service h1{
+  color: blue;
+  font-size: xx-large;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.Service .sp2{
+  color: whitesmoke;
+  font-size: x-large;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.service{
+  display: grid;
+  grid-template-columns: 45% 45%;
+  column-gap: 2%;
+  row-gap: 5%;
+  margin-top: 5%;
+  background-color: black;
+  color:aliceblue;
+  box-shadow: 10px 10px 20px white;
+  padding: 20px;
+  height: fit-content;
+}
+.web{
+  width: 100%;
+  margin-top: 5%;
+  border-radius: 10px;
+  background-color: darkgray;
+  box-shadow: 10px 10px 20px white;
+  height: fit-content;
+}
+/* .responsive{
+  margin-top: 5%;
+  border-radius: 10px;
+  background-color: darkgray;
+  box-shadow: 10px 10px 20px white;
+  height: fit-content;
+} */
+.application{
+  width: 100%;
+  margin-top: 5%;
+  border-radius: 10px;
+  background-color: darkgray;
+  box-shadow: 10px 10px 20px white;
+  height: fit-content;
   }
-  .Service .service{
-    display: grid;
-    grid-template-columns: 35% 35%;
-    grid-template-rows: 1fr 1fr;
-    margin-top: 5%;
-  }
+.troubleshoot{
+  width: 100%;
+  margin-top: 5%;
+  border-radius: 10px;
+  background-color: darkgray;
+  box-shadow: 10px 10px 20px white;
+  height: fit-content;
+}
   .Contact .contact{
     grid-template-columns: 100vw;
     margin-top: 5%;
