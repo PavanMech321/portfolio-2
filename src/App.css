@@ -73,10 +73,10 @@
   text-align:center;
 }
 .Home{
-    height: auto;
+/*     height: auto; */
   margin-top: 6%;
   display: grid;
-  grid-template-columns: 40vw 40vw;
+  grid-template-columns: 40vw 50vw;
   column-gap: 2%;
   background-color: blue;
   color:aliceblue;
@@ -85,9 +85,9 @@
   }
   .logo{
   margin-top: 7%;
-  width: 40%;
+  width: 80%;
   margin-left: 20%;
-  height: 40%;
+  height: 80%;
   border-radius: 50%;
   box-shadow: 10px 10px 20px black;
   /* mix-blend-mode:lighten; */
