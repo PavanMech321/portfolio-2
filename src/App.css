@@ -83,10 +83,10 @@
 /*   align-items: center; */
   box-shadow: 10px 10px 20px white;
   }
-  .image{
+  .Home .image{
   width: 100%;
   }
-  .image .logo{
+  .image > .logo{
   margin-top: 7%;
   width: 90%;
   margin-left: 20%;
@@ -100,10 +100,10 @@
 .logo:hover{
   filter: blur(0px) grayscale(0%);
 }
-  .home{
+.Home .home{
     width:100%;
   }
-.home h1{
+.home > h1{
   font-size: larger;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
