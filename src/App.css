@@ -75,8 +75,8 @@ body{
 .Home{
   margin-top: 6%;
   display: grid;
-  grid-template-columns: 40vw 40vw;
-  column-gap: 2%;
+  grid-template-columns: 45vw 40vw;
+  column-gap: 5%;
   background-color: blue;
   color:aliceblue;
   align-items: center;
@@ -84,9 +84,9 @@ body{
 }
 .logo{
   margin-top: 7%;
-  width: 70%;
+  width: 90%;
   margin-left: 20%;
-  height: 70%;
+  height: 90%;
   border-radius: 50%;
   box-shadow: 10px 10px 20px black;
   /* mix-blend-mode:lighten; */
@@ -120,8 +120,7 @@ body{
 }
 .About .para{
   display: grid;
-  grid-template-columns: 40vw 40vw;
-  height: fit-content;
+  grid-template-columns: 45vw 45vw;
   gap: 10%;
   margin-top: 5%;
   /* background-color: blue; */
@@ -163,6 +162,7 @@ body{
 .skill{
   display: grid;
   grid-template-columns: 45vw 45vw;
+  grid-template-rows: 1fr 1fr;
   gap: 5%;
   margin-top: 5%;
   background-color: black;
@@ -231,7 +231,8 @@ body{
 }
 .service{
   display: grid;
-  grid-template-columns: 45vw 45vw;
+  grid-template-columns: 40vw 40vw;
+  grid-template-rowss: 1fr 1fr;
   gap: 2%;
   margin-top: 5%;
   background-color: black;
