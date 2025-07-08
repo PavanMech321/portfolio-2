@@ -110,6 +110,7 @@
   display: grid;
   grid-template-columns: 45% 45%; */
   gap: 2%;
+  margin-top: 5%;
   background-color: black;
 /*   height: auto; */
   margin-top: 10%;
@@ -124,7 +125,7 @@
 }
  #About .para{
   display: grid;
-  grid-template-columns: 50% 50%;
+  grid-template-columns: 48% 48%;
   gap: 10%;
   margin-top: 5%;
   /* background-color: blue; */
@@ -139,7 +140,7 @@
 }
 .Skills{
 /*   width:100%; */
-  margin-top: 10%;
+  margin-top: 5%;
   font-family: 'Courier New', Courier, monospace;
   font-size: large;
   text-align: center;
@@ -162,7 +163,7 @@
   display: grid;
   grid-template-columns: 50% 50%;
 /*   grid-template-rows: 45% 45%; */
-  column-gap: 5%;
+  gap: 5%;
   margin-top: 5%;
   background-color: black;
   color:aliceblue;
@@ -212,7 +213,7 @@
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .Service{
-  margin-top: 10%;
+  margin-top: 5%;
   font-family: 'Courier New', Courier, monospace;
   font-size: large;
   text-align: center;
@@ -234,8 +235,8 @@
 .service{
   display: grid;
   grid-template-columns: 50% 50%;
-  column-gap: 2%;
-  row-gap: 5%;
+/*   column-gap: 2%; */
+  gap: 5%;
   margin-top: 5%;
   background-color: black;
   color:aliceblue;
@@ -244,7 +245,7 @@
   height: fit-content;
 }
 .web{
-  width: 100%;
+/*   width: 100%; */
   margin-top: 5%;
   border-radius: 10px;
   background-color: darkgray;
@@ -259,7 +260,7 @@
   height: fit-content;
 } */
 .application{
-  width: 100%;
+/*   width: 100%; */
   margin-top: 5%;
   border-radius: 10px;
   background-color: darkgray;
@@ -267,7 +268,7 @@
   height: fit-content;
   }
 .troubleshoot{
-  width: 100%;
+/*   width: 100%; */
   margin-top: 5%;
   border-radius: 10px;
   background-color: darkgray;
@@ -275,7 +276,7 @@
   height: fit-content;
 }
 .Contact{
-  margin-top: 10%;
+  margin-top: 5%;
   font-family: 'Courier New', Courier, monospace;
   font-size: large;
   text-align: center;
@@ -290,7 +291,7 @@
 }
 .contact{
   display: grid;
-  grid-template-columns: 30vw 65vw;
+  grid-template-columns: 30% 65%;
   gap: 2%;
   margin-top: 5%;
   background-color: black;
@@ -348,7 +349,7 @@ textarea:hover{
   color: black;
 }
 .Footer{
-  margin-top: 30%;
+  margin-top: 20%;
   font-family: 'Courier New', Courier, monospace;
   font-size: large;
   text-align: center;
@@ -369,7 +370,7 @@ textarea:hover{
 }
 .social{
   display: grid;
-  grid-template-columns: 30vw 10vw 10vw 10vw 10vw;
+  grid-template-columns: 50% 25% 25%;
   gap: 2%;
   margin-top: 5%;
   background-color: black;
@@ -390,7 +391,7 @@ textarea:hover{
 .social a:hover{
   color: black;
   background-color: whitesmoke;
-  border-radius: 11px;
+  border-radius: 10px;
 }
 }
 
