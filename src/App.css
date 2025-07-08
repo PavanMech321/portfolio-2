@@ -105,7 +105,7 @@
 }
 .Home 
 #About{
-  width: 100vw;
+  width: 100%;
 /*   margin-top: 2%;
   display: grid;
   grid-template-columns: 45% 45%; */
@@ -124,7 +124,7 @@
 }
  #About .para{
   display: grid;
-  grid-template-columns: 45% 45%;
+  grid-template-columns: 60% 60%;
   gap: 10%;
   margin-top: 5%;
   /* background-color: blue; */
@@ -160,7 +160,7 @@
 }
 .skill{
   display: grid;
-  grid-template-columns: 45% 45%;
+  grid-template-columns: 60% 60%;
 /*   grid-template-rows: 45% 45%; */
   column-gap: 5%;
   margin-top: 5%;
