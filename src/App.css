@@ -75,8 +75,8 @@
 .Home{
   margin-top: 6%;
   display: grid;
-  grid-template-columns: 40vw 45vw;
-  column-gap: 5%;
+  grid-template-columns: 40vw 35vw;
+  column-gap: 15%;
   background-color: blue;
   color:aliceblue;
   align-items: center;
@@ -99,6 +99,7 @@
 .Home h1{
   font-size: larger;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align:center;
 }
 #About{
   /* width: 100vw; */
