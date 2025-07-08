@@ -80,14 +80,14 @@
   column-gap: 2%;
   background-color: blue;
   color:aliceblue;
-  align-items: center;
+/*   align-items: center; */
   box-shadow: 10px 10px 20px white;
   }
   .logo{
   margin-top: 7%;
-  width: 80%;
+/*   width: 80%; */
   margin-left: 20%;
-  height: 80%;
+/*   height: 80%; */
   border-radius: 50%;
   box-shadow: 10px 10px 20px black;
   /* mix-blend-mode:lighten; */
