@@ -66,13 +66,23 @@
 .main{
   margin-top: 20%;
 }
+.p1{
+  gap: 2%;
+/*   margin-top: 5%; */
+  background-color: black;
+/*   height: auto; */
+  margin-top: 10%;
+  color:aliceblue;
+  align-items: center;
+  box-shadow: 10px 10px 20px white;
+}
 .p1 .h1{
   font-size: xx-large;
   justify-content: center;
   justify-self: center;
   text-align:center;
 }
-.Home{
+.p1 .Home{
 /*   width:100%; */
   height: fit-content;
   margin-top: 6%;
@@ -110,7 +120,7 @@
   display: grid;
   grid-template-columns: 45% 45%; */
   gap: 2%;
-  margin-top: 5%;
+/*   margin-top: 5%; */
   background-color: black;
 /*   height: auto; */
   margin-top: 10%;
