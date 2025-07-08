@@ -228,7 +228,6 @@
 .service{
   display: grid;
   grid-template-columns: 45vw 45vw;
-  grid-template-rows: 45vw;
   column-gap: 2%;
   margin-top: 5%;
   background-color: black;
