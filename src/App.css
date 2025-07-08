@@ -73,6 +73,7 @@
   text-align:center;
 }
 .Home{
+  width:100vw;
   height: fit-content;
   margin-top: 6%;
   display: grid;
