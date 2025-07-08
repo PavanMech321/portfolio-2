@@ -64,9 +64,7 @@
     color: black;
 }
 .main{
-    margin-top: 20%;
-  display:grid;
-  grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
+  margin-top: 20%;
 }
 .p1 .h1{
   font-size: xx-large;
@@ -75,7 +73,7 @@
   text-align:center;
 }
 .Home{
-  height: 40%;
+  height: fit-content;
   margin-top: 6%;
   display: grid;
   grid-template-columns: 40vw 50vw;
