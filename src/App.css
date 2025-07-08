@@ -9,7 +9,7 @@
   width: 100vw;
   margin: 0;
   display: flex;
-/*   place-items: center; */
+  place-items: center;
 }
 .Navbar{
   height: 50px;
@@ -77,16 +77,13 @@
   margin-top: 6%;
   display: grid;
   grid-template-columns: 40vw 40vw;
-  column-gap: 7%;
+  column-gap: 2%;
   background-color: blue;
   color:aliceblue;
 /*   align-items: center; */
   box-shadow: 10px 10px 20px white;
   }
-  .Home .image{
-  width: 100%;
-  }
-  .image > .logo{
+  .logo{
   margin-top: 7%;
   width: 90%;
   margin-left: 20%;
@@ -100,13 +97,10 @@
 .logo:hover{
   filter: blur(0px) grayscale(0%);
 }
-.Home .home{
-    width:100%;
-  }
-.home > h1{
+/* h1{
   font-size: larger;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
+} */
 #About{
   /* width: 100vw; */
 /*   height: auto;
@@ -128,20 +122,19 @@
 }
  #About .para{
   display: grid;
-  grid-template-columns: 30vw 30vw;
-  height: auto;
-  gap: 10%;
+  grid-template-columns: 40vw 40vw;
+  column-gap: 5%;
   margin-top: 5%;
   /* background-color: blue; */
   color:aliceblue;
-  align-items: center;
+/*   align-items: center; */
   box-shadow: 10px 10px 20px white;
   padding: 20px;
   font-family: 'Courier New', Courier, monospace;
   font-size: large;
   text-align: center;
   background-color: black;
-  justify-content: center;
+/*   justify-content: center; */
 }
 #card{
   border-radius: 15px;
@@ -168,11 +161,10 @@
   text-align: center;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-.Skills .skill{
+.skill{
   display: grid;
   grid-template-columns: 45vw 45vw;
-  grid-template-rows: 1fr 1fr;
-  gap: 5%;
+  column-gap: 5%;
   margin-top: 5%;
   background-color: black;
   color:aliceblue;
@@ -180,7 +172,6 @@
   padding: 20px;
 }
 .frontend{
-  width: 100%;
   border-radius: 10px;
   background-color: darkcyan;
 }
@@ -191,7 +182,6 @@
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .backend{
-  width: 100%;
   height: fit-content;
   border-radius: 10px;
   background-color: darkcyan;
@@ -203,12 +193,10 @@
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .database{
-  width: 100%;
   border-radius: 10px;
   background-color: darkcyan;
 }
   .tools{
-  width: 100%;
   border-radius: 10px;
   background-color: darkcyan;
 }
@@ -238,11 +226,10 @@
   text-align: center;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-.Service .service{
+.service{
   display: grid;
   grid-template-columns: 40vw 40vw;
-  grid-template-rowss: 1fr 1fr;
-  gap: 2%;
+  column-gap: 2%;
   margin-top: 5%;
   background-color: black;
   color:aliceblue;
@@ -250,7 +237,6 @@
   padding: 20px;
 }
   .web{
-  width: 100%;
   margin-top: 5%;
   border-radius: 10px;
   background-color: darkgray;
@@ -258,7 +244,6 @@
   height: fit-content;
 }
 .responsive{
-  width: 100%;
   margin-top: 5%;
   border-radius: 10px;
   background-color: darkgray;
@@ -274,7 +259,6 @@
   height: fit-content;
   }
 .troubleshoot{
-  width: 100%;
   margin-top: 5%;
   border-radius: 10px;
   background-color: darkgray;
