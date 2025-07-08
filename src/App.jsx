@@ -177,7 +177,8 @@ function App() {
             designed to showcase my skills and projects. The website is
             responsive and works well on all devices. It is also optimized for
             performance and accessibility. The website is hosted on GitHub
-            Pages. You can find the source code on my GitHub profile.</p>
+            Pages. You can find the source code on my GitHub profile.
+          </p>
           <p class="fp1">
             &copy; 2025 Durga Pavan B. All rights reserved.
           </p>
