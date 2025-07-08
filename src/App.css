@@ -162,6 +162,7 @@
 .skill{
   display: grid;
   grid-template-columns: 45vw 45vw;
+  grid-template-rows: 45vw 45vw;
   column-gap: 5%;
   margin-top: 5%;
   background-color: black;
@@ -226,10 +227,12 @@
 }
 .service{
   display: grid;
-  grid-template-rows: 1fr 1fr 1fr;
+  grid-template-columns: 45vw 45vw;
+  grid-template-rows: 45vw;
   column-gap: 2%;
   margin-top: 5%;
   background-color: black;
+  justify-items: center;
   color:aliceblue;
   box-shadow: 10px 10px 20px white;
   padding: 20px;
