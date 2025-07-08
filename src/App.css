@@ -87,7 +87,7 @@
   height: fit-content;
   margin-top: 6%;
   display: grid;
-  grid-template-columns: 50% 50%;
+  grid-template-columns: 40% 40%;
   column-gap: 10%;
   background-color: blue;
   color: aliceblue;
