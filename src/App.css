@@ -312,6 +312,7 @@
 .Contact .contact{
   display: grid;
   grid-template-columns: 40% 56%;
+/*   column-gap: 2%; */
   gap: 2%;
   margin-top: 5%;
   background-color: black;
