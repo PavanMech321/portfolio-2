@@ -829,9 +829,15 @@ textarea:hover{
     margin-top: 20%;
   }
   .Home{
-    grid-template-columns: 40vw 50vw;
-    margin-top: 5%;
-    height: fit-content;
+    height: auto;
+  margin-top: 6%;
+  display: grid;
+  grid-template-columns: 40vw 40vw;
+  column-gap: 2%;
+  background-color: blue;
+  color:aliceblue;
+  align-items: center;
+  box-shadow: 10px 10px 20px white;
   }
   .logo{
     width: 80%;
