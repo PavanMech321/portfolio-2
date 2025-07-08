@@ -101,26 +101,27 @@
   font-size: larger;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 } */
-#About{
-  /* width: 100vw; */
+.About{
+  width: 100vw;
 /*   height: auto;
   margin-top: 2%;
   display: grid;
   grid-template-columns: 40vw 40vw;
   gap : 2%; */
   background-color: black;
-  height: auto;
+/*   height: auto; */
   margin-top: 10%;
   color:aliceblue;
   align-items: center;
   box-shadow: 10px 10px 20px white;
 }
-#About h1{
+.About h1{
   font-size: xx-large;
   text-align: center;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
- #About .para{
+ .para{
+  width:100%;
   display: grid;
   grid-template-columns: 40vw 40vw;
   column-gap: 5%;
@@ -137,8 +138,8 @@
 /*   justify-content: center; */
 }
 #card{
-  border-radius: 15px;
-  margin-top: 5%;
+  border-radius: 10px;
+  margin-top: 2%;
   box-shadow: 10px 10px 20px white;
 }
 .Skills{
