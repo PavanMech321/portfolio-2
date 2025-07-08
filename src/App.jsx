@@ -171,9 +171,6 @@ function App() {
           </form>
           </div>
         </p>
-        <button class="btn">
-          <a href="#Home" >Back to Top</a>
-        </button>
         <p class="Footer">
           <h6>This is a simple portfolio website created using React. It is
             designed to showcase my skills and projects. The website is
@@ -191,6 +188,9 @@ function App() {
 {/*             <a href="" target="_self">Instagram</a> */}
           </p>
         </p>
+        <button class="btn">
+          <a href="#Home" class="go">Back to Top</a>
+        </button>
       </div>
     </>
   )
