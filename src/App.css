@@ -827,8 +827,8 @@ body{
 .main{
     margin-top: 20%;
 }
-  .Home{
-    height: auto;
+.Home{
+  height: fit-content;
   margin-top: 6%;
   display: grid;
   grid-template-columns: 40vw 40vw;
@@ -837,12 +837,12 @@ body{
   color:aliceblue;
   align-items: center;
   box-shadow: 10px 10px 20px white;
-  }
-  .logo{
+}
+.Home .logo{
   margin-top: 7%;
-  width: 40%;
+  width: 80%;
   margin-left: 20%;
-  height: 40%;
+  height: 80%;
   border-radius: 50%;
   box-shadow: 10px 10px 20px black;
   /* mix-blend-mode:lighten; */
@@ -852,11 +852,10 @@ body{
 .logo:hover{
   filter: blur(0px) grayscale(0%);
 }
-.Home h1{
-  font-size: larger;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+.Home .home{
+  width:100%;
 }
-  #About{
+.About{
   /* width: 100vw; */
 /*   height: auto;
   margin-top: 2%;
@@ -870,12 +869,12 @@ body{
   align-items: center;
   box-shadow: 10px 10px 20px white;
 }
-#About h1{
+.About h1{
   font-size: xx-large;
   text-align: center;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
- #About .para{
+.About .para{
   display: grid;
   grid-template-columns: 30vw 30vw;
   height: auto;
