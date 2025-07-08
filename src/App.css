@@ -829,7 +829,7 @@ body{
     margin-top: 20%;
 }
 .Home{
-  height: fit-content;
+  height: auto;
   margin-top: 6%;
   display: grid;
   grid-template-columns: 40vw 40vw;
@@ -893,6 +893,24 @@ body{
   justify-content: center;
 }
  .Skills{
+  margin-top: 10%;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: large;
+  text-align: center;
+  justify-content: center;
+  padding: 20px;
+}
+.Skills h1{
+  color: blue;
+  font-size: xx-large;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+  .Skills .sp1{
+  color: whitesmoke;
+  font-size: x-large;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .skill{
   display: grid;
