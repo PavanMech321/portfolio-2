@@ -302,6 +302,7 @@
   color:aliceblue;
   align-items: center;
   box-shadow: 10px 10px 20px white;
+  height: fit-content;
 }
 .Contact h1{
   color: blue;
