@@ -72,21 +72,25 @@
   justify-content: center;
   justify-self: center;
 }
-.Home{
+.main{
+    margin-top: 20%;
+  }
+  .Home{
+    height: auto;
   margin-top: 6%;
   display: grid;
-  grid-template-columns: 1fr 2fr;
-  column-gap: 15%;
+  grid-template-columns: 40vw 40vw;
+  column-gap: 2%;
   background-color: blue;
   color:aliceblue;
-/*   align-items: center; */
+  align-items: center;
   box-shadow: 10px 10px 20px white;
-}
-.logo{
+  }
+  .logo{
   margin-top: 7%;
-  width: 80%;
+  width: 40%;
   margin-left: 20%;
-  height: 80%;
+  height: 40%;
   border-radius: 50%;
   box-shadow: 10px 10px 20px black;
   /* mix-blend-mode:lighten; */
@@ -96,7 +100,7 @@
 .logo:hover{
   filter: blur(0px) grayscale(0%);
 }
- h1{
+.Home h1{
   font-size: larger;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -832,7 +836,7 @@ body{
     background-color: #ddd;
     color: black;
 }
-  .main{
+.main{
     margin-top: 20%;
   }
   .Home{
