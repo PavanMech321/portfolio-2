@@ -73,11 +73,11 @@
   text-align:center;
 }
 .Home{
-  width:100%;
+/*   width:100%; */
   height: fit-content;
   margin-top: 6%;
   display: grid;
-  grid-template-columns: 40% 50%;
+  grid-template-columns: 50% 50%;
   column-gap: 10%;
   background-color: blue;
   color: aliceblue;
@@ -105,7 +105,7 @@
 }
 .Home 
 #About{
-  width: 100%;
+/*   width: 100%; */
 /*   margin-top: 2%;
   display: grid;
   grid-template-columns: 45% 45%; */
@@ -124,7 +124,7 @@
 }
  #About .para{
   display: grid;
-  grid-template-columns: 60% 60%;
+  grid-template-columns: 50% 50%;
   gap: 10%;
   margin-top: 5%;
   /* background-color: blue; */
@@ -138,7 +138,7 @@
   background-color: black;
 }
 .Skills{
-  width:100%;
+/*   width:100%; */
   margin-top: 10%;
   font-family: 'Courier New', Courier, monospace;
   font-size: large;
@@ -160,7 +160,7 @@
 }
 .skill{
   display: grid;
-  grid-template-columns: 60% 60%;
+  grid-template-columns: 50% 50%;
 /*   grid-template-rows: 45% 45%; */
   column-gap: 5%;
   margin-top: 5%;
@@ -170,7 +170,7 @@
   padding: 20px;
 }
 .frontend{
-  width:100%;
+/*   width:100%; */
   height: fit-content;
   border-radius: 10px;
   background-color: darkcyan;
@@ -182,7 +182,7 @@
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .backend{
-  width:100%;
+/*   width:100%; */
   height: fit-content;
   border-radius: 10px;
   background-color: darkcyan;
@@ -194,13 +194,13 @@
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .database{
-  width:100%;
+/*   width:100%; */
   height: fit-content;
   border-radius: 10px;
   background-color: darkcyan;
 }
 .tools{
-  width:100%;
+/*   width:100%; */
   height: fit-content;
   border-radius: 10px;
   background-color: darkcyan;
@@ -233,7 +233,7 @@
 }
 .service{
   display: grid;
-  grid-template-columns: 45% 45%;
+  grid-template-columns: 50% 50%;
   column-gap: 2%;
   row-gap: 5%;
   margin-top: 5%;
