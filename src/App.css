@@ -77,17 +77,20 @@
   margin-top: 6%;
   display: grid;
   grid-template-columns: 40vw 40vw;
-  column-gap: 2%;
+  column-gap: 7%;
   background-color: blue;
   color:aliceblue;
-  align-items: center;
+/*   align-items: center; */
   box-shadow: 10px 10px 20px white;
   }
-  .logo{
+  .image{
+  width: 100%;
+  }
+  .image .logo{
   margin-top: 7%;
-  width: 40%;
+  width: 70%;
   margin-left: 20%;
-  height: 40%;
+  height: 70%;
   border-radius: 50%;
   box-shadow: 10px 10px 20px black;
   /* mix-blend-mode:lighten; */
