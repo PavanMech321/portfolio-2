@@ -839,7 +839,7 @@ textarea:hover{
     margin-left: 10%;
     margin-top: -5%;
   }
-  .About .para{
+  #About .para{
     display: grid;
     grid-template-columns: 45vw 45vw;
     grid-template-rows: 1fr 1fr;
