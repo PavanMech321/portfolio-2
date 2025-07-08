@@ -9,7 +9,7 @@
   width: 100vw;
   margin: 0;
   display: flex;
-  place-items: center;
+/*   place-items: center; */
 }
 .Navbar{
   height: 50px;
@@ -72,8 +72,8 @@
   justify-self: center;
   text-align:center;
 }
-  .Home{
-    height: auto;
+.Home{
+  height: auto;
   margin-top: 6%;
   display: grid;
   grid-template-columns: 40vw 40vw;
