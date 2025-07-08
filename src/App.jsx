@@ -192,7 +192,6 @@ function App() {
             <a href="" target="_self">Twitter</a>
             <a href="" target="_self">Instagram</a>
          </p> */}
-  <br>
         <button class="btn">
           <a href="#Home" class="go">Back to Top</a>
         </button>
