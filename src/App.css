@@ -390,10 +390,9 @@ textarea:hover{
 .social a:hover{
   color: black;
   background-color: whitesmoke;
-  border-radius: 10px;
+  border-radius: 11px;
 }
 }
-
 
 /* body{
   width: 100vw;
