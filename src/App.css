@@ -65,16 +65,13 @@
 }
 .main{
     margin-top: 20%;
-    padding: 20px;
-}
-.h1{
+  }
+  .p1 .h1{
   font-size: xx-large;
   justify-content: center;
   justify-self: center;
+  text-align:center;
 }
-.main{
-    margin-top: 20%;
-  }
   .Home{
     height: auto;
   margin-top: 6%;
