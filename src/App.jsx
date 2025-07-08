@@ -172,6 +172,7 @@ function App() {
           </div>
         </p>
         <p class="Footer">
+          <p class="ft0">
           <h6>This is a simple portfolio website created using React. It is
             designed to showcase my skills and projects. The website is
             responsive and works well on all devices. It is also optimized for
@@ -187,6 +188,7 @@ function App() {
 {/*             <a href="" target="_self">Twitter</a> */}
 {/*             <a href="" target="_self">Instagram</a> */}
           </p>
+         </p>
         </p>
         <button class="btn">
           <a href="#Home" class="go">Back to Top</a>
