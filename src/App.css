@@ -318,6 +318,7 @@
   color:aliceblue;
   box-shadow: 10px 10px 20px white;
   padding: 20px;
+  height: fit-content;
 }
 input{
   width: 100%;
