@@ -100,7 +100,7 @@ body{
   font-size: larger;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-.About{
+#About{
   /* width: 100vw; */
 /*   height: auto;
   margin-top: 2%;
@@ -108,20 +108,21 @@ body{
   grid-template-columns: 40vw 40vw;
   gap : 2%; */
   background-color: black;
+  height: auto;
   margin-top: 10%;
   color:aliceblue;
   align-items: center;
   box-shadow: 10px 10px 20px white;
 }
-.About h1{
+#About h1{
   font-size: xx-large;
   text-align: center;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-.About .para{
+ #About .para{
   display: grid;
-  grid-template-columns: 45vw 45vw;
-  grid-template-rowss: 1fr 1fr;
+  grid-template-columns: 30vw 30vw;
+  height: auto;
   gap: 10%;
   margin-top: 5%;
   /* background-color: blue; */
