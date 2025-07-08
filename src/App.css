@@ -335,7 +335,7 @@ textarea:hover{
   align-content: center;
   align-self: center;
 }
-.btn a{
+.btn .go{
   text-decoration: none;
   color: aliceblue;
 }
@@ -344,7 +344,7 @@ textarea:hover{
   box-shadow: 10px 10px 20px white;
   color: black;
 }
-  .btn:hover a:hover{
+.btn:hover .go:hover{
   color: black;
 }
 .Footer{
