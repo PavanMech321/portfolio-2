@@ -151,11 +151,11 @@
 .Skills{
 /*   width:100%; */
   gap: 2%;
-  height: fit-content;
+/*   height: fit-content; */
 /*   margin-top: 5%; */
   background-color: black;
 /*   height: auto; */
-  margin-top: 10%;
+  margin-top: 5%;
   color:aliceblue;
   align-items: center;
   box-shadow: 10px 10px 20px white;
