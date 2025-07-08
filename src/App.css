@@ -1,4 +1,4 @@
-body{
+*body{
   width: 100vw;
   margin: 0;
   display: flex;
@@ -24,7 +24,7 @@ body{
 /*   font-size: 16px; */
   color: white;
   display: grid;
-  grid-template-rows:1fr;
+/*   grid-template-rows:1fr; */
   grid-template-columns: 20% 14% 14% 14% 14% 14%;
   column-gap: 1%;
 /*   text-align: center; */
@@ -75,18 +75,18 @@ body{
 .Home{
   margin-top: 6%;
   display: grid;
-  grid-template-columns: 45vw 40vw;
+  grid-template-columns: 40vw 45vw;
   column-gap: 5%;
   background-color: blue;
   color:aliceblue;
   align-items: center;
   box-shadow: 10px 10px 20px white;
 }
-.logo{
+.Home .logo{
   margin-top: 7%;
-  width: 90%;
+  width: 80%;
   margin-left: 20%;
-  height: 90%;
+  height: 80%;
   border-radius: 50%;
   box-shadow: 10px 10px 20px black;
   /* mix-blend-mode:lighten; */
@@ -161,7 +161,7 @@ body{
   text-align: center;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-.skill{
+.Skills .skill{
   display: grid;
   grid-template-columns: 45vw 45vw;
   grid-template-rows: 1fr 1fr;
@@ -231,7 +231,7 @@ body{
   text-align: center;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-.service{
+.Service .service{
   display: grid;
   grid-template-columns: 40vw 40vw;
   grid-template-rowss: 1fr 1fr;
