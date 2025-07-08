@@ -1,7 +1,7 @@
-*body{
+body{
   width: 100vw;
   margin: 0;
-  display: flex;
+/*   display: flex; */
   place-items: center;
 }
 @media screen and (max-width: 768px) {
