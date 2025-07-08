@@ -73,7 +73,7 @@
   text-align:center;
 }
 .Home{
-/*     height: auto; */
+  height: 40%;
   margin-top: 6%;
   display: grid;
   grid-template-columns: 40vw 50vw;
