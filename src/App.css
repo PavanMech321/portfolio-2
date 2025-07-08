@@ -226,7 +226,7 @@
 }
 .service{
   display: grid;
-  grid-template-columns: 40vw 40vw;
+  grid-template-rows: 1fr 1fr 1fr;
   column-gap: 2%;
   margin-top: 5%;
   background-color: black;
