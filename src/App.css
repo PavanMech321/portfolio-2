@@ -302,7 +302,7 @@
   color:aliceblue;
   align-items: center;
   box-shadow: 10px 10px 20px white;
-  height: fit-content;
+/*   height: fit-content; */
 }
 .Contact h1{
   color: blue;
@@ -383,7 +383,7 @@ textarea:hover{
   display: grid;
   grid-template-columns: 30% 20% 20%;
   gap: 10%;
-  margin-top: 5%;
+  margin-top: 15%;
   background-color: black;
   color:aliceblue;
   box-shadow: 10px 10px 20px white;
