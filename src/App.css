@@ -174,9 +174,9 @@
 }
 .Skills .skill{
   display: grid;
-  grid-template-columns: 45% 45%;
+  grid-template-columns: 48% 48%;
 /*   grid-template-rows: 45% 45%; */
-  gap: 5%;
+  gap: 2%;
   margin-top: 1%;
   background-color: black;
   color:aliceblue;
