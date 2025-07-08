@@ -120,6 +120,8 @@
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
  .About .para{
+  width: 100vw;
+  height:60%;
   display: grid;
   grid-template-columns: 40vw 40vw;
   column-gap: 5%;
