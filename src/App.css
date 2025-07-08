@@ -914,8 +914,8 @@ body{
 .skill{
   display: grid;
   grid-template-columns: 45vw 45vw;
-  column-gap: 2.5%;
-  margin-top: 2.5%;
+  column-gap: 3%;
+  margin-top: 3%;
   background-color: black;
   color:aliceblue;
   box-shadow: 10px 10px 20px white;
@@ -927,7 +927,7 @@ body{
 }
   .frontend h2{
   color: black;
-  font-size: x-large;
+  font-size: large;
   text-align: center;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -937,7 +937,7 @@ body{
 }
 .backend h2{
   color: black;
-  font-size: x-large;
+  font-size: large;
   text-align: center;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -951,7 +951,7 @@ body{
 }
 .tools h2{
   color: black;
-  font-size: x-large;
+  font-size: large;
   text-align: center;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
