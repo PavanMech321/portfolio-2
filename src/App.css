@@ -372,11 +372,8 @@ textarea:hover{
   gap: 2%;
 /*   margin-top: 5%; */
   background-color: black;
-
-  display: grid;
-  grid-template-columns: 90%;
 /*   height: auto; */
-  margin-top: 30%;
+  margin-top: 10%;
   color:aliceblue;
   align-items: center;
   box-shadow: 10px 10px 20px white;
@@ -393,7 +390,17 @@ textarea:hover{
   text-align: center;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-.social{
+.Footer .ft0{
+  display: grid;
+  grid-template-columns: 90%;
+  gap: 2%;
+  margin-top: 5%;
+  background-color: black;
+  color:aliceblue;
+  box-shadow: 10px 10px 20px white;
+  padding: 20px;
+}
+.Footer .social{
   display: grid;
   grid-template-columns: 30% 20% 20%;
   gap: 10%;
