@@ -840,9 +840,9 @@ body{
 }
 .Home .logo{
   margin-top: 7%;
-  width: 80%;
+  width: 40%;
   margin-left: 20%;
-  height: 80%;
+  height: 40%;
   border-radius: 50%;
   box-shadow: 10px 10px 20px black;
   /* mix-blend-mode:lighten; */
