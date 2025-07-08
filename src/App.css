@@ -73,7 +73,6 @@
   text-align:center;
 }
 .Home{
-  height: auto;
   margin-top: 6%;
   display: grid;
   grid-template-columns: 40vw 40vw;
@@ -83,11 +82,11 @@
 /*   align-items: center; */
   box-shadow: 10px 10px 20px white;
   }
-  .logo{
+  .image .logo{
   margin-top: 7%;
-  width: 90%;
+  width: 80%;
   margin-left: 20%;
-  height: 90%;
+  height: 80%;
   border-radius: 50%;
   box-shadow: 10px 10px 20px black;
   /* mix-blend-mode:lighten; */
@@ -97,10 +96,10 @@
 .logo:hover{
   filter: blur(0px) grayscale(0%);
 }
-/* h1{
+.home h1{
   font-size: larger;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-} */
+}
 .About{
   width: 100vw;
 /*   height: auto;
@@ -112,7 +111,7 @@
 /*   height: auto; */
   margin-top: 10%;
   color:aliceblue;
-  align-items: center;
+/*   align-items: center; */
   box-shadow: 10px 10px 20px white;
 }
 .About h1{
