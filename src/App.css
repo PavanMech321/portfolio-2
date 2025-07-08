@@ -79,10 +79,10 @@
   column-gap: 15%;
   background-color: blue;
   color:aliceblue;
-  align-items: center;
+/*   align-items: center; */
   box-shadow: 10px 10px 20px white;
 }
-.Home .logo{
+.logo{
   margin-top: 7%;
   width: 80%;
   margin-left: 20%;
@@ -96,7 +96,7 @@
 .logo:hover{
   filter: blur(0px) grayscale(0%);
 }
-.Home h1{
+ h1{
   font-size: larger;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
