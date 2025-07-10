@@ -7,6 +7,5 @@ import App from './App.jsx'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <App />
-    <a href="#Home" style="color:white; background-color:blue; width:fit-content; border-radius:10px;text-align:right;height:50px;margin-top:20px;">Go to Top</a
   </StrictMode>,
 )
