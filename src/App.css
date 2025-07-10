@@ -897,9 +897,9 @@ body{
 .logo:hover{
   filter: blur(0px) grayscale(0%);
 }
-.Home .home{
+/* .Home .home{
   width:100%;
-}
+} */
 .About{
  gap: 2%;
 /*   margin-top: 5%; */
