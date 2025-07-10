@@ -199,12 +199,14 @@ function App() {
         &copy; 2025 Durga Pavan B. All rights reserved.
         </p> */}
       </div>
-        <button class="btn">
-          <a href="#Home" class="go">Back to Top</a>
-        </button>
-        <p class="fp1">
+        <div class="footer">
+          <button class="btn">
+            <a href="#Home" class="go">Back to Top</a>
+          </button>
+          <p class="fp1">
             &copy; 2025 Durga Pavan B. All rights reserved.
-        </p>
+          </p>
+        </div>
     </>
   )
 }
