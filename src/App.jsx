@@ -199,10 +199,7 @@ function App() {
         &copy; 2025 Durga Pavan B. All rights reserved.
         </p> */}
       </div>
-      <div class="footer">
-        <a href="#Home" class="go">Back to Top</a>
-        <p class="fp1">&copy; 2025 Durga Pavan B. All rights reserved.</p>
-      </div>
+      
     </>
   )
 }
