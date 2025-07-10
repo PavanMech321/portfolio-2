@@ -832,9 +832,9 @@ body{
   color: white;
   display: grid;
   grid-template-rows:1fr;
-  grid-template-columns: 14% 15% 15% 15% 15vw 14vw;
+  grid-template-columns: 14vw 15vw 15vw 15vw 15vw 14vw;
 /*   gap: 1%; */
-  word-spacing: normal;
+/*   word-spacing: auto; */
 /*   text-align: center; */
   text-decoration: none;
   text-transform: uppercase;
