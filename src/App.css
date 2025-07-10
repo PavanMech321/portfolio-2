@@ -25,7 +25,7 @@
   color: white;
   display: grid;
   grid-template-rows:1fr;
-  grid-template-columns: 14% 14% 14% 14% 14% 14%;
+  grid-template-columns: 14% 15% 15% 15% 15% 14%;
   column-gap: 1%;
 /*   text-align: center; */
   text-decoration: none;
@@ -37,18 +37,18 @@
  .Navbar .nbp1{
   margin-right: 1%;
   float: right;
-  font-size: large;
+  font-size: medium;
 /*   display: block; */
   color: white;
 /*   text-align: center; */
 /*   padding: 14px 16px; */
-  text-decoration: none;
+/*   text-decoration: none; */
 /*   word-spacing: normal; */
   /* margin-top: -0.1%; */
-  box-shadow: 10px 10px 20px white;
+  box-shadow: 5px 5px 10px white;
 }
-.Navbar a {
-  margin-left: 1%; 
+.Navbar a{
+/*   margin-left: 1%;  */
   float: left;
 /*   display: block; */
   color: white;
