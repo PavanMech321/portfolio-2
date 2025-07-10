@@ -12,7 +12,7 @@ function App() {
         <a href="#Home">Home</a>
         <a href="#About">About</a>
         <a href="#Skills">Skills</a>
-        <a href="#Service">Service</a>
+        <a href="#Service">Service </a>
         <a href="#Contact">Contact</a>
       </div>
       <div class="main">
