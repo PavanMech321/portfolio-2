@@ -30,7 +30,7 @@
 /*   text-align: center; */
   text-decoration: none;
   text-transform: uppercase;
-/*   word-spacing: normal; */
+  word-spacing: auto;
 /*   letter-spacing: 1px; */
     /* transition: background-color 0.3s; */
 }
@@ -53,6 +53,7 @@
 /*   display: block; */
   color: white;
   font-size: large;
+  word-spacing: auto;
   width: fit-content;
   /*height: fit-content; */
   /* text-align: center; */
