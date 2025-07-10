@@ -371,18 +371,19 @@ textarea:hover{
 } */
 .footer .go{
   margin-top: 5%;
-  width:fit-content;
+/*   width:fit-content; */
   height: 60px;
-  border-radius: 10px;
+  border-radius: 50%;
   text-align: center;
   color: aliceblue;
   background-color: blue;
+  text-decoration: none;
   box-shadow: 10px 10px 20px blue;
   border: none;
   align-content: center;
   align-self: center;
 }
-.go:hover{
+.footer .go:hover{
   background-color: #ddd;
   box-shadow: 10px 10px 20px white;
   color: black;
