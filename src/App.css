@@ -872,11 +872,11 @@ body{
     margin-top: 20%;
 }
 .Home{
-  margin-top: 6%;
-  display: grid;
-  grid-template-columns: 40vw 40vw;
-  column-gap: 2%;
-  background-color: blue;
+  gap: 2%;
+/*   margin-top: 5%; */
+  background-color: black;
+/*   height: auto; */
+  margin-top: 10%;
   color:aliceblue;
   align-items: center;
   box-shadow: 10px 10px 20px white;
@@ -899,14 +899,10 @@ body{
   width:100%;
 }
 .About{
-  /* width: 100vw; */
-/*   height: auto;
-  margin-top: 2%;
-  display: grid;
-  grid-template-columns: 40vw 40vw;
-  gap : 2%; */
+ gap: 2%;
+/*   margin-top: 5%; */
   background-color: black;
-  height: auto;
+/*   height: auto; */
   margin-top: 10%;
   color:aliceblue;
   align-items: center;
@@ -935,12 +931,14 @@ body{
   justify-content: center;
 }
  .Skills{
+  gap: 2%;
+/*   margin-top: 5%; */
+  background-color: black;
+/*   height: auto; */
   margin-top: 10%;
-  font-family: 'Courier New', Courier, monospace;
-  font-size: large;
-  text-align: center;
-  justify-content: center;
-  padding: 20px;
+  color:aliceblue;
+  align-items: center;
+  box-shadow: 10px 10px 20px white;
 }
 .Skills h1{
   color: blue;
@@ -957,7 +955,7 @@ body{
 .skill{
   display: grid;
   grid-template-columns: 45vw 45vw;
-  column-gap: 3%;
+  gap: 3%;
   margin-top: 3%;
   background-color: black;
   color:aliceblue;
@@ -999,12 +997,14 @@ body{
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .Service{
+  gap: 2%;
+/*   margin-top: 5%; */
+  background-color: black;
+/*   height: auto; */
   margin-top: 10%;
-  font-family: 'Courier New', Courier, monospace;
-  font-size: large;
-  text-align: center;
-  justify-content: center;
-  padding: 20px;
+  color:aliceblue;
+  align-items: center;
+  box-shadow: 10px 10px 20px white;
 }
   .Service h1{
   color: blue;
@@ -1018,10 +1018,10 @@ body{
   text-align: center;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-.service{
+.Service .service{
   display: grid;
   grid-template-columns: 45% 45%;
-  column-gap: 2%;
+  gap: 2%;
   row-gap: 5%;
   margin-top: 5%;
   background-color: black;
@@ -1062,10 +1062,13 @@ body{
   height: fit-content;
 }
 .Contact{
-  height: 50px;
-  border-radius: 10px;
-  color: aliceblue;
-  background-color: dimgray;
+  gap: 2%;
+/*   margin-top: 5%; */
+  background-color: black;
+/*   height: auto; */
+  margin-top: 10%;
+  color:aliceblue;
+  align-items: center;
   box-shadow: 10px 10px 20px white;
 }
 .Contact h1{
