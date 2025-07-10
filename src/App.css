@@ -346,10 +346,33 @@ textarea:hover{
   background-color: #ddd;
   color: black;
 }
-.btn{
+.footer{
+  gap: 2%;
+/*   margin-top: 5%; */
+  background-color: black;
+/*   height: auto; */
+  margin-top: 10%;
+  color:aliceblue;
+  align-items: center;
+  box-shadow: 10px 10px 20px white;
+}
+/* .btn{
   margin-top: 5%;
   width:fit-content;
-  height: 40px;
+  height: 60px;
+  border-radius: 10px;
+  text-align: center;
+  color: aliceblue;
+  background-color: blue;
+  box-shadow: 10px 10px 20px blue;
+  border: none;
+  align-content: center;
+  align-self: center;
+} */
+.footer .go{
+  margin-top: 5%;
+  width:fit-content;
+  height: 60px;
   border-radius: 10px;
   text-align: center;
   color: aliceblue;
@@ -359,26 +382,18 @@ textarea:hover{
   align-content: center;
   align-self: center;
 }
-.btn .go{
-  text-decoration: none;
-  color: aliceblue;
-}
-.btn:hover{
+.go:hover{
   background-color: #ddd;
   box-shadow: 10px 10px 20px white;
   color: black;
 }
-.btn:hover .go:hover{
-  color: black;
-}
-
-.fp1{
+.footer .fp1{
   color: whitesmoke;
   font-size: x-large;
   text-align: center;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-
+/* 
 .social{
   display: grid;
   grid-template-columns: 30% 20% 20%;
@@ -389,14 +404,14 @@ textarea:hover{
   box-shadow: 10px 10px 20px white;
   padding: 20px;
 
-/*   gap: 2%; */
-/*   margin-top: 5%; */
-/*   background-color: black; */
-/*   height: auto; */
-/*   margin-top: 30%;
-  color:aliceblue; */
+  gap: 2%;
+  margin-top: 5%;
+  background-color: black;
+  height: auto; 
+  margin-top: 30%;
+  color:aliceblue;
   align-items: center;
-/*   box-shadow: 10px 10px 20px white; */
+  box-shadow: 10px 10px 20px white;
 }
 .social a{
   text-decoration: none;
@@ -414,7 +429,7 @@ textarea:hover{
   border-radius: 10px;
 }
 }
-
+ */
 /* body{
   width: 100vw;
   margin: 0;
