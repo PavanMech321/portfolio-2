@@ -26,7 +26,7 @@
   display: grid;
   grid-template-rows:1fr;
   grid-template-columns: 14% 14% 14% 14% 14% 14%;
-  gap: 1%;
+  column-gap: 1%;
 /*   text-align: center; */
   text-decoration: none;
   text-transform: uppercase;
