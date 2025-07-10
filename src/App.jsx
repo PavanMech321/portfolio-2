@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <div class="Navbar" >
-        <p class="nbp1">Portfolio</p>
+{/*         <p class="nbp1">Portfolio</p> */}
         <a href="#Home">Home</a>
         <a href="#About">About</a>
         <a href="#Skills">Skills</a>
