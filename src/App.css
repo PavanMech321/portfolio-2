@@ -18,7 +18,7 @@
   overflow: hidden;
   position: fixed;
   top: 0px;
-/*   width: 100vw; */
+  width: 100%;
   z-index: 1;
 /*   font-family: 'Courier New', Courier, monospace; */
 /*   font-size: 16px; */
@@ -30,7 +30,7 @@
 /*   text-align: center; */
   text-decoration: none;
   text-transform: uppercase;
-  word-spacing: auto;
+/*   word-spacing: auto; */
 /*   letter-spacing: 1px; */
     /* transition: background-color 0.3s; */
 }
